@@ -1,2 +1,3 @@
 # FlukeyFabricator
-Silent 3D Printer documentation
+Silent 3D Printer Documentation
+
